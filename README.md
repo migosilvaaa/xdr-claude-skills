@@ -1,3 +1,5 @@
+![Miro](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Miro_logo.svg/320px-Miro_logo.svg.png)
+
 # XDR Copilot Skills
 
 Automates the Miro XDR outbound pipeline. Upload a Looker CSV, enrich contacts, research accounts, classify personas, generate personalized emails, and export Outreach-ready files — all through Claude Cowork.
